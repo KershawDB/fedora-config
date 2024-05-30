@@ -41,4 +41,4 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
 
 # Configure Konsole
 cp configs/konsole/konsolerc ~/.config/konsolerc
-cp configs/konsole/zsh.profile ~/.local/share/zsh.profile
+cp configs/konsole/zsh.profile ~/.local/share/konsole/zsh.profile

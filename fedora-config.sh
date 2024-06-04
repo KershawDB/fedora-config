@@ -25,7 +25,7 @@ sudo dnf install gstreamer1-plugin-openh264 mozilla-openh264 -y
 
 # zsh
 cp configs/.zshrc ~/.zshrc
-sudo dnf install zsh -y
+sudo dnf install zsh zsh-syntax-highlighting -y
 
 # Install font for Powerlevel10k
 sudo mkdir -p /usr/local/share/fonts/MesloLGS
